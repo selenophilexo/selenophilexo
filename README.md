@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Akshay (@selenophilexo)
+- 👨🏻‍💻 Working as Senior Technical Engineer
 - 👀 I’m interested in Cloud and Security,EHH.
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on CSE,IT.
